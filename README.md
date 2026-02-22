@@ -1,8 +1,13 @@
 # 🏭 Industrial Portfolio 2026
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://brainfeed-portfolio.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://portfolio.brainfeed.tech)
 
 Welcome to the **Industrial Powerhouse** of Olivier Robert-Duboille. This repository is the central indexing hub for a multi-disciplinary ecosystem of 146+ repositories, meticulously categorized for technical audit and recruitment.
+
+## 🔗 Live Industrial Access
+- **Main Portfolio:** [https://portfolio.brainfeed.tech](https://portfolio.brainfeed.tech)
+- **Security Agent Ops:** [https://sec-agent.brainfeed.tech](https://sec-agent.brainfeed.tech)
+- **Cyber Intel Aggregator:** [https://intel-aggregator.brainfeed.tech](https://intel-aggregator.brainfeed.tech)
 
 ## 🏗️ Flagship Industrial Domains
 
