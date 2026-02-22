@@ -34,6 +34,11 @@ Welcome to my professional engineering portfolio. This repository serves as a ce
 - Thread-safe, high-performance cache with LRU/LFU eviction policies.
 - Fine-grained locking mechanisms for high concurrency.
 
+### 7. [Supply Chain Ledger](https://github.com/Brainfeed-1996/supply-chain-integrity-ledger)
+*Python, Blockchain, Cryptography*
+- Decentralized immutable ledger for industrial provenance tracking.
+- Features SHA-256 consensus and multi-threaded transaction mining.
+
 ---
 
 ## 🛠️ Core Competencies
