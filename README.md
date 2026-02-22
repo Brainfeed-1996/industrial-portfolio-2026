@@ -1,22 +1,36 @@
-# Industrial Portfolio 2026
+# Olivier Robert - Industrial Portfolio 2026
 
-Professional Portfolio of Olivier Robert-Duboille, showcasing advanced projects in Cybersecurity, Artificial Intelligence, and Distributed Systems.
+Welcome to my professional engineering portfolio. This repository serves as a centralized hub and index for my technical projects in **Artificial Intelligence, Cybersecurity, and Distributed Systems**.
 
-## 🌟 Featured Projects
+## 🚀 Featured Projects
 
-- **[Distributed ML Pipeline](https://github.com/Brainfeed-1996/distributed-ml-pipeline-py)**: Production-grade ML serving with FastAPI, Redis, and MLflow.
-- **[EDR Evasion Framework](https://github.com/Brainfeed-1996/edr-evasion-framework)**: Security research into endpoint detection bypass techniques.
-- **[Hybrid Post-Quantum Crypto](https://github.com/Brainfeed-1996/hybrid-post-quantum-crypto)**: Implementation of NIST PQC finalists (Kyber/Dilithium).
-- **[Kernel Memory Scanner](https://github.com/Brainfeed-1996/kernel-level-memory-scanner)**: C++20 tool for low-level memory forensics.
+### 1. [Distributed ML Pipeline](https://github.com/Brainfeed-1996/distributed-ml-pipeline-py)
+*Python, FastAPI, Celery, MLflow, Redis*
+- A production-ready MLOps pipeline for distributed training and inference.
+- Features integrated feature store and experiment tracking.
 
-## 🛠 Tech Stack
+### 2. [Hybrid Post-Quantum Crypto](https://github.com/Brainfeed-1996/hybrid-post-quantum-crypto)
+*C, CMake, PQC, Kyber*
+- A C library implementing hybrid cryptographic schemes (Classical + NIST PQC).
+- Designed for industrial security transition.
 
-- **Languages**: C++20, Rust, Python 3.12, Go, TypeScript.
-- **AI/ML**: PyTorch, TensorFlow, MLflow, Scikit-learn.
-- **Systems**: Linux Kernel, eBPF, Kubernetes, Docker, gRPC.
-- **Security**: OSINT, Reverse Engineering, Cryptography.
+### 3. [EDR Evasion Framework](https://github.com/Brainfeed-1996/edr-evasion-framework)
+*C++, Win32 API, Systems Security*
+- Security research tool for testing EDR detection capabilities.
+- Implements advanced memory injection and hook bypass techniques.
+
+---
+
+## 🛠️ Core Competencies
+
+- **AI/ML**: MLOps, Distributed Training, Model Serving.
+- **Security**: Cryptography (PQC), Offsec Research, Systems Internals.
+- **Engineering**: Clean Architecture, CI/CD, Industrial Logging/Error Handling.
 
 ## 📬 Contact
 
 - **GitHub**: [Brainfeed-1996](https://github.com/Brainfeed-1996)
-- **Email**: [olivier.robert.duboille@gmail.com]
+- **LinkedIn**: [Olivier Robert](https://www.linkedin.com/in/olivier-robert-ai-cyber/)
+
+---
+*© 2026 Olivier Robert. All rights reserved.*
