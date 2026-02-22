@@ -1,0 +1,8 @@
+{
+  "name": "industrial-portfolio-2026",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "mkdir -p out && cp index.html out/ || echo 'No index.html found'"
+  }
+}
