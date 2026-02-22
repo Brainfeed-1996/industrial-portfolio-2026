@@ -1,7 +1,5 @@
-# EMBEDDED Portfolio - Industrial Projects
+# EMBEDDED Projects Portfolio
 
-This document lists all repositories in the **EMBEDDED** domain, part of the 2026 Industrial Global Portfolio.
+An exhaustive list of industrial projects in the **EMBEDDED** domain.
 
-| Project | Industrial Description | Link |
-| :--- | :--- | :--- |
-| **arduino-projects-collection** | Comprehensive collection of Arduino and robotics projects, from basics to advanced autonomous navigation. | [View Repo](../repos_workspace/arduino-projects-collection) |
+*No projects currently listed in this category.*

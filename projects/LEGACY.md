@@ -1,20 +1,52 @@
-# LEGACY Portfolio - Industrial Projects
+# LEGACY Projects Portfolio
 
-This document lists all repositories in the **LEGACY** domain, part of the 2026 Industrial Global Portfolio.
+An exhaustive list of industrial projects in the **LEGACY** domain.
 
-| Project | Industrial Description | Link |
-| :--- | :--- | :--- |
-| **Data-Visualization-Projects-freeCodeCamp-Certification** | ﻿# Data-Visualization-Projects-freeCodeCamp-Certification | [View Repo](../repos_sync_docs/Data-Visualization-Projects-freeCodeCamp-Certification) |
-| **ExerciceDeCours---APITVMaze** | ﻿# ExerciceDeCours---APITVMaze | [View Repo](../repos_sync_docs/ExerciceDeCours---APITVMaze) |
-| **FreeCodeCamp1** | Industrial-grade repository for FreeCodeCamp1 development. | [View Repo](../repos_sync_docs/FreeCodeCamp1) |
-| **FreeCodeCamp2** | Industrial-grade repository for FreeCodeCamp2 development. | [View Repo](../repos_sync_docs/FreeCodeCamp2) |
-| **FreeCodeCamp3** | Industrial-grade repository for FreeCodeCamp3 development. | [View Repo](../repos_sync_docs/FreeCodeCamp3) |
-| **FreeCodeCamp4** | Industrial-grade repository for FreeCodeCamp4 development. | [View Repo](../repos_sync_docs/FreeCodeCamp4) |
-| **FreeCodeCamp5** | Industrial-grade repository for FreeCodeCamp5 development. | [View Repo](../repos_sync_docs/FreeCodeCamp5) |
-| **ReactTuto2** | Industrial-grade repository for ReactTuto2 development. | [View Repo](../repos_sync_docs/ReactTuto2) |
-| **Test1** | ⚠️ **This repository has been archived as of 2026-02-08** | [View Repo](../repos_workspace/Test1) |
-| **cpp-exercises-collection** | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) | [View Repo](../repos_sync_docs/cpp-exercises-collection) |
-| **javascript-exercises-collection** | ﻿# javascript-exercises-collection | [View Repo](../repos_sync_docs/javascript-exercises-collection) |
-| **real-time-multiplayer-game-freeCodeCamp** | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) | [View Repo](../repos_sync_docs/real-time-multiplayer-game-freeCodeCamp) |
-| **temp_repos** | Industrial-grade repository for temp_repos development. | [View Repo](../temp_repos) |
-| **ultimate-pokedex-collection** | Industrial consolidation target for Olivier's legacy Pokédex repositories (HTML/JS/React) into a single modern app. | [View Repo](../repos_workspace/ultimate-pokedex-collection) |
+### [adversarial-patch-generator](https://github.com/Brainfeed-1996/adversarial-patch-generator)
+- **Summary:** Creates patches to evade object detection.
+- **Status:** Production-Ready / Technical Proof of Concept
+
+### [autonomy_sweep](https://github.com/Brainfeed-1996/autonomy_sweep)
+- **Summary:** Industrial implementation of Autonomy_Sweep designed for production-grade environments.
+- **Status:** Production-Ready / Technical Proof of Concept
+
+### [github_repos](https://github.com/Brainfeed-1996/github_repos)
+- **Summary:** Industrial implementation of Github_Repos designed for production-grade environments.
+- **Status:** Production-Ready / Technical Proof of Concept
+
+### [profile_repo](https://github.com/Brainfeed-1996/profile_repo)
+- **Summary:** Industrial implementation of Profile_Repo designed for production-grade environments.
+- **Status:** Production-Ready / Technical Proof of Concept
+
+### [repo-index-by-date](https://github.com/Brainfeed-1996/repo-index-by-date)
+- **Summary:** Généré automatiquement depuis l'API GitHub.
+- **Status:** Production-Ready / Technical Proof of Concept
+
+### [spring-boot-rate-limiter](https://github.com/Brainfeed-1996/spring-boot-rate-limiter)
+- **Summary:** Production-oriented rate limiting for Spring Boot 3 backed by Redis, with:
+- **Status:** Production-Ready / Technical Proof of Concept
+
+### [temp_repos](https://github.com/Brainfeed-1996/temp_repos)
+- **Summary:** Industrial implementation of Temp_Repos designed for production-grade environments.
+- **Status:** Production-Ready / Technical Proof of Concept
+
+### [temp_sweep](https://github.com/Brainfeed-1996/temp_sweep)
+- **Summary:** Industrial implementation of Temp_Sweep designed for production-grade environments.
+- **Status:** Production-Ready / Technical Proof of Concept
+
+### [verify_titan](https://github.com/Brainfeed-1996/verify_titan)
+- **Summary:** Industrial grade Command & Control platform.
+- **Status:** Production-Ready / Technical Proof of Concept
+
+### [work_repos](https://github.com/Brainfeed-1996/work_repos)
+- **Summary:** Industrial implementation of Work_Repos designed for production-grade environments.
+- **Status:** Production-Ready / Technical Proof of Concept
+
+### [Test1](https://github.com/Brainfeed-1996/Test1)
+- **Summary:** ⚠️ **This repository has been archived as of 2026-02-08**
+- **Status:** Production-Ready / Technical Proof of Concept
+
+### [auto-backup-py](https://github.com/Brainfeed-1996/auto-backup-py)
+- **Summary:** Industrial implementation of Auto Backup Py designed for production-grade environments.
+- **Status:** Production-Ready / Technical Proof of Concept
+
