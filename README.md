@@ -1,26 +1,27 @@
-# Industrial Global Portfolio 2026
+# 🏭 Industrial Portfolio 2026
 
-Welcome to the centralized hub of my industrial-grade technical portfolio. This repository serves as a router to specialized domains of my engineering work.
+Welcome to the **Industrial Powerhouse** of Olivier Robert-Duboille. This repository is the central indexing hub for a multi-disciplinary ecosystem of 146+ repositories, meticulously categorized for technical audit and recruitment.
 
-## 🏗️ Portfolio Domains
+## 🏗️ Flagship Industrial Domains
 
-Explore the specialized sub-portfolios for each domain:
+Explore specialized flagship portfolios featuring production-grade code:
 
-- [🛡️ Cyber Projects](projects/CYBER.md) - Security tools, C2 frameworks, and offensive/defensive labs.
-- [🧠 AI & Machine Learning](projects/AI.md) - RAG architectures, neural reasoning, and industrial ML pipelines.
-- [⚙️ Systems & Architecture](projects/SYSTEMS.md) - High-performance caches, distributed ledgers, and network engines.
-- [🌐 Web Ecosystems](projects/WEB.md) - Modern web applications, dashboards, and frontend architectures.
-- [📱 Mobile Engineering](projects/MOBILE.md) - Secure Android storage and cross-platform mobile solutions.
-- [🔌 Embedded & Edge AI](projects/EMBEDDED.md) - Robotics, Arduino collections, and edge intrusion detection.
-- [📦 Legacy & Collections](projects/LEGACY.md) - Archived projects and consolidated technical libraries.
+- [🛡️ **Cyber Security**](projects/CYBER.md) - C2 Frameworks, EDR Evasion, and Automated Pentest Orchestration.
+- [🧠 **AI & Machine Learning**](projects/AI.md) - RAG Systems, Neural-Symbolic Reasoning, and MLOps Pipelines.
+- [⚙️ **Systems & Architecture**](projects/SYSTEMS.md) - Distributed Ledgers, High-Perf Caches, and Cloud-Native Mesh.
+- [🌐 **Web Ecosystems**](projects/WEB.md) - Industrial Dashboards, Real-time Observability, and Scalable WebApps.
+- [📱 **Mobile Engineering**](projects/MOBILE.md) - Secure Android Storage and Cross-Platform Architectures.
+- [🔌 **Embedded & Edge AI**](projects/EMBEDDED.md) - Autonomous Robotics and Edge Intrusion Detection.
 
-## 🚀 Vision
+## 📦 Historical & Educational Archives
 
-My work focuses on building **production-grade**, **security-first**, and **distributed** systems. Each project listed here is designed with industrial standards in mind, emphasizing:
+- [📚 **Legacy & Learning**](projects/LEGACY.md) - A vast collection of educational exercises, course implementations, and archived experiments.
 
-- **Scalability:** Event-driven and microservices-based architectures.
-- **Security:** Zero-trust principles and proactive threat mitigation.
-- **Integrity:** Immutable ledgers and robust audit logging.
+## 🚀 Key Highlights
+
+- **Exhaustive Inventory:** 100% of the workspace is indexed and categorized.
+- **Production-First:** Flagship projects emphasize scalability, security, and industrial integrity.
+- **Live Deployments:** Projects with frontends include links to immediate production environments.
 
 ---
 © 2026 Olivier Robert-Duboille | [Back to Profile](https://github.com/Brainfeed-1996)

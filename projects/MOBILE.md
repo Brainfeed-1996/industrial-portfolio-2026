@@ -1,5 +1,4 @@
-# MOBILE Projects Portfolio
+# 📱 Industrial MOBILE Portfolio
 
-An exhaustive list of industrial projects in the **MOBILE** domain.
+Mission-critical **MOBILE** implementations and flagship projects.
 
-*No projects currently listed in this category.*

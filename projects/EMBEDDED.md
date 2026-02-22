@@ -1,5 +1,4 @@
-# EMBEDDED Projects Portfolio
+# 🔌 Industrial EMBEDDED Portfolio
 
-An exhaustive list of industrial projects in the **EMBEDDED** domain.
+Mission-critical **EMBEDDED** implementations and flagship projects.
 
-*No projects currently listed in this category.*
