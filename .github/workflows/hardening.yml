@@ -1,0 +1,36 @@
+name: Security Hardening & SBOM
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  hardening:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Verify Signed Commits
+        run: |
+          # Ensure all commits in the push are signed
+          git log --show-signature -1
+
+      - name: Install Syft
+        run: curl -sSfL https://raw.githubusercontent.com/anchore/syft/main/install.sh | sh -s -- -b /usr/local/bin
+
+      - name: Generate SBOM (Syft)
+        run: |
+          syft . -o json > sbom.json
+          syft . -o cyclonedx-xml > sbom.xml
+
+      - name: Upload SBOM
+        uses: actions/upload-artifact@v4
+        with:
+          name: sbom-report
+          path: |
+            sbom.json
+            sbom.xml

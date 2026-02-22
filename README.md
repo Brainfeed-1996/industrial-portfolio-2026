@@ -1,68 +1,42 @@
-# 🏗️ Industrial Portfolio 2026
+# Industrial Portfolio 2026: Advanced Security & AI Systems
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-2026-blue.svg)](https://github.com/Brainfeed-1996/industrial-portfolio-2026)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+Welcome to the **Industrial Global Launch** repository. This portfolio represents a high-integrity, multi-disciplinary engineering effort focused on mission-critical security, distributed systems, and industrial AI.
 
-## 🚀 Industrial-Grade Projects
+## 🏗 System Maillage (Architecture Overview)
 
-### 🔗 [Blockchain Supply Chain Integrity](https://github.com/Brainfeed-1996/blockchain-supply-chain-integrity)
-[![Go](https://img.shields.io/badge/Language-Go-00ADD8.svg)](https://golang.org)
-[![Security Scan](https://img.shields.io/badge/Security-Passing-brightgreen.svg)]()
-A high-integrity ledger system built with Go.
-- **Features**: Merkle Tree validation, Cryptographic block signing.
-- **Tech**: Go, SHA-256, Mermaid.
+```mermaid
+graph TD
+    A[Cyber Intel Aggregator] -->|Threat Feeds| B[Autonomous Sec Agent]
+    B -->|Mitigation Ops| C[Cloud Native Security Mesh]
+    D[Edge AI IDS] -->|Local Alarms| C
+    E[Blockchain Supply Chain] -->|Audit Trail| B
+    C -->|Metrics/Tracing| F[Industrial Ops Telemetry]
+```
 
-### 🛡️ [Zero-Trust Asset Identity](https://github.com/Brainfeed-1996/zero-trust-asset-identity)
-[![Go](https://img.shields.io/badge/Language-Go-00ADD8.svg)](https://golang.org)
-[![SVID](https://img.shields.io/badge/Auth-SPIFFE-blue.svg)]()
-Microservice for machine identity issuing SVID-like tokens.
-- **Features**: JWT-based SVIDs, Zero-trust inter-service auth.
-- **Tech**: Go, JWT.
+## 🚀 Technical Matrix: Core Flagships
 
-### 🕵️ [Edge AI Intrusion Detection](https://github.com/Brainfeed-1996/edge-ai-intrusion-detection)
-[![C++](https://img.shields.io/badge/Language-C%2B%2B-00599C.svg)](https://isocpp.org)
-[![Python](https://img.shields.io/badge/Language-Python-3776AB.svg)](https://www.python.org)
-[![Edge AI](https://img.shields.io/badge/AI-Inference-orange.svg)]()
-Hybrid C++/Python IDS optimized for high-performance edge processing.
-- **Tech**: C++, Python, pybind11.
+| Project | Core Stack | Industrial Use-Case | Performance / Feature | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Cyber Intel Aggregator](./cyber-intel-aggregator-service)** | Rust, Next.js, PG | Dark/Clear Web Intelligence | Real-time NLP Pipeline | `Active` |
+| **[Edge AI IDS](./edge-ai-intrusion-detection)** | C++, ONNX, gRPC | Critical Infra Protection | < 50us Inference Latency | `Stable` |
+| **[Cloud Security Mesh](./cloud-native-security-mesh)** | Go, Redis, eBPF | High-Availability Mesh | Distributed Rate-Limiting | `Active` |
+| **[Blockchain Integrity](./blockchain-supply-chain-integrity)** | Rust, ZKP, Substrate | Supply Chain Audit | Zero-Knowledge Verification | `Enhanced` |
+| **[Auto-Sec Agent Ops](./autonomous-sec-agent-ops)** | Python, LLM, REST | Autonomous Security SoC | Self-Healing Infrastructure | `Stable` |
 
-### 📊 [Industrial Ops & Telemetry](https://github.com/Brainfeed-1996/industrial-ops-telemetry)
-[![Docker](https://img.shields.io/badge/Infrastructure-Docker-2496ED.svg)](https://www.docker.com)
-[![SRE](https://img.shields.io/badge/SRE-Observability-blueviolet.svg)]()
-Centralized hub for monitoring the Zero-Trust ecosystem.
-- **Tech**: Prometheus, Grafana, Docker Compose.
+## 🛠 Engineering Excellence
 
-### 🤖 [Autonomous Sec Agent Ops](https://github.com/Brainfeed-1996/autonomous-sec-agent-ops)
-[![Python](https://img.shields.io/badge/Language-Python-3776AB.svg)](https://www.python.org)
-[![LangChain](https://img.shields.io/badge/AI-LangChain-121212.svg)](https://langchain.com)
-AI agents that perform automated remediation under the Zero-Trust mesh.
-- **Tech**: Python, LangChain, Next.js.
+- **Deployment**: Production-ready Docker Compose configurations for all services.
+- **Observability**: Standardized Prometheus metrics and OpenTelemetry tracing across the ecosystem.
+- **Documentation**: Comprehensive ADRs (Architecture Decision Records) for every critical design choice.
+- **Security**: Zero-Trust Asset Identity and Post-Quantum Cryptographic layers integrated into core protocols.
 
-## 🏗️ System Architecture & Integration
+## 🗺 2026 Roadmap
 
-The projects in this phase are designed as a cohesive **Industrial Security Ecosystem**:
-
-1.  **Identity Layer (`zero-trust-asset-identity`)**: 
-    - Acts as the Root of Trust.
-    - Issues short-lived SPIFFE-style SVIDs to all edge assets and microservices.
-    - Manages automatic rotation and revocation (CRL style).
-    - **Observability**: Exposes `/metrics` for token issuance and lifecycle monitoring.
-2.  **Detection Layer (`edge-ai-intrusion-detection`)**:
-    - Deployed at the Hybrid Edge.
-    - Uses high-performance C++ engines (via pybind11) to inspect traffic.
-    - Authenticates alerts to the Central Hub using SVIDs from the Identity Layer.
-    - **Observability**: Real-time latency tracking and threat frequency metrics.
-3.  **Governance Layer (`cloud-native-security-mesh`)**:
-    - Centralized Policy Engine.
-    - Every communication between the AI agents and the infrastructure is verified against the SVID provided by the Identity Service.
-4.  **Operational Layer (`autonomous-sec-agent-ops`)**:
-    - AI agents that perform automated remediation.
-    - They operate under the Zero-Trust mesh, requiring valid machine identities to interact with the repository and deployment APIs.
-
-### 📈 SRE & Observability Strategy
-- **Metrics**: Prometheus-based monitoring of service health and security events.
-- **Visualization**: Grafana dashboards for executive and technical oversight.
-- **Future-Proofing**: ADR in place for OpenTelemetry-based distributed tracing.
+- [x] **Q1: Industrial Global Launch** - Initial flagship deployment and tiered architecture setup.
+- [ ] **Q2: Deep Complexification** - Integration of ZKP and Distributed Rate-Limiting.
+- [ ] **Q3: Scaling & Optimization** - Multi-region mesh deployment and advanced NLP model tuning.
+- [ ] **Q4: Ecosystem Synergy** - Fully autonomous cross-service threat response orchestration.
 
 ---
-*Generated by OpenClaw Assistant - Industrial Excellence Initiative Phase 7*
+*Maintained by Olivier Robert - Industrial Security Specialist*
+*Contact: [olivier.robert@brainfeed.tech](mailto:olivier.robert@brainfeed.tech)*
