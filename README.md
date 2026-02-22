@@ -19,6 +19,21 @@ Welcome to my professional engineering portfolio. This repository serves as a ce
 - Security research tool for testing EDR detection capabilities.
 - Implements advanced memory injection and hook bypass techniques.
 
+### 4. [Automated Pentest Orchestrator](https://github.com/Brainfeed-1996/automated-pentest-orchestrator)
+*Python, Security Orchestration, Pentesting*
+- Tiered architecture (Domain/Services/Adapters) for industrial-scale vulnerability management.
+- Features structured JSON logging and robust retry logic.
+
+### 5. [Multi-Agent RAG Feedback](https://github.com/Brainfeed-1996/multi-agent-rag-feedback)
+*Python, AI, LLM, RAG*
+- Advanced retrieval system using specialized agents (Retrieval, Synthesis, Critique).
+- Implements a continuous feedback loop to ensure response quality.
+
+### 6. [Concurrent Cache](https://github.com/Brainfeed-1996/high-perf-cache-rust)
+*Python (Systems Style), Concurrency, High Performance*
+- Thread-safe, high-performance cache with LRU/LFU eviction policies.
+- Fine-grained locking mechanisms for high concurrency.
+
 ---
 
 ## 🛠️ Core Competencies
