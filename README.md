@@ -1,5 +1,7 @@
 # 🏭 Industrial Portfolio 2026
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://brainfeed-portfolio.vercel.app)
+
 Welcome to the **Industrial Powerhouse** of Olivier Robert-Duboille. This repository is the central indexing hub for a multi-disciplinary ecosystem of 146+ repositories, meticulously categorized for technical audit and recruitment.
 
 ## 🏗️ Flagship Industrial Domains

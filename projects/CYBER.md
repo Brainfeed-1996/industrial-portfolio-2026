@@ -2,6 +2,11 @@
 
 Mission-critical **CYBER** implementations and flagship projects.
 
+### 🚀 [cyber-intel-aggregator-service](https://github.com/Brainfeed-1996/cyber-intel-aggregator-service)
+- **Summary:** Advanced threat intelligence platform for Dark Web and Clear Web monitoring.
+- **Live Demo:** [https://cyber-intel.vercel.app](https://cyber-intel.vercel.app)
+- **Tier:** Flagship / Production-Ready
+
 ### 🚀 [sentinel-stream](https://github.com/Brainfeed-1996/sentinel-stream)
 - **Summary:** **Sentinel Stream** is a local-first, policy-driven telemetry pipeline (collection → normalization → rules → audit log) designed for defensive security and observability.
 - **Tier:** Flagship / Production-Ready
