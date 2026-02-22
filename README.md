@@ -2,7 +2,7 @@
 
 ## Industrial-Grade Projects
 
-### 🔗 Blockchain Supply Chain Integrity (New - 2026)
+### 🔗 [Blockchain Supply Chain Integrity](https://github.com/Brainfeed-1996/blockchain-supply-chain-integrity) (New - 2026)
 A high-integrity ledger system built with Go.
 - **Features**: Merkle Tree transaction validation, Cryptographic block signing, Modular storage adapters.
 - **Quality**: 100% test coverage for core domain logic and service orchestration.
@@ -25,12 +25,12 @@ High-performance forecasting models for industrial sensor data.
 | **Security Tools** | SonarCloud, Semgrep, TruffleHog, Gitleaks, Trivy, Metasploit |
 | **DevOps & Cloud** | Docker, Kubernetes, GitHub Actions, Terraform, AWS |
 
-### 🛡️ Zero-Trust Asset Identity
+### 🛡️ [Zero-Trust Asset Identity](https://github.com/Brainfeed-1996/zero-trust-asset-identity)
 A microservice for machine identity issuing SVID-like tokens (SPIFFE style).
 - **Features**: JWT-based SVIDs, Modular identity storage, Zero-trust inter-service auth.
 - **Tech**: Go, JWT.
 
-### 🕵️ Edge AI Intrusion Detection
+### 🕵️ [Edge AI Intrusion Detection](https://github.com/Brainfeed-1996/edge-ai-intrusion-detection)
 Hybrid C++/Python IDS optimized for high-performance edge processing.
 - **Features**: pybind11 integration, AI-based threat classification layer.
 - **Tech**: C++, Python, pybind11, TensorRT (Mock).
@@ -38,10 +38,15 @@ Hybrid C++/Python IDS optimized for high-performance edge processing.
 ### 🕸️ Cloud-Native Security Mesh
 Policy engine retrofitted with Zero-Trust identity verification.
 
-### 📊 Industrial Ops & Telemetry
+### 📊 [Industrial Ops & Telemetry](https://github.com/Brainfeed-1996/industrial-ops-telemetry)
 Centralized observability hub for monitoring the Zero-Trust ecosystem.
 - **Features**: Prometheus metrics exportation, Grafana dashboards, Docker-based SRE stack.
 - **Tech**: Prometheus, Grafana, Docker Compose.
+
+### 🤖 [Autonomous Sec Agent Ops](https://github.com/Brainfeed-1996/autonomous-sec-agent-ops)
+AI agents that perform automated remediation under the Zero-Trust mesh.
+- **Features**: LangChain-based agents, Automated PR security fixes, GitHub integration.
+- **Tech**: Python, LangChain, Next.js.
 
 ## 🏗️ System Architecture & Integration
 
