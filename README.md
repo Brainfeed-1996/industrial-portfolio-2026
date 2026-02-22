@@ -1,51 +1,41 @@
-# Industrial Portfolio 2026
+# 🏗️ Industrial Portfolio 2026
 
-## Industrial-Grade Projects
+[![Portfolio](https://img.shields.io/badge/Portfolio-2026-blue.svg)](https://github.com/Brainfeed-1996/industrial-portfolio-2026)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-### 🔗 [Blockchain Supply Chain Integrity](https://github.com/Brainfeed-1996/blockchain-supply-chain-integrity) (New - 2026)
+## 🚀 Industrial-Grade Projects
+
+### 🔗 [Blockchain Supply Chain Integrity](https://github.com/Brainfeed-1996/blockchain-supply-chain-integrity)
+[![Go](https://img.shields.io/badge/Language-Go-00ADD8.svg)](https://golang.org)
+[![Security Scan](https://img.shields.io/badge/Security-Passing-brightgreen.svg)]()
 A high-integrity ledger system built with Go.
-- **Features**: Merkle Tree transaction validation, Cryptographic block signing, Modular storage adapters.
-- **Quality**: 100% test coverage for core domain logic and service orchestration.
-- **Tech**: Go, SHA-256, Mermaid Architecture Docs.
-
-### 🧠 Neural Symbolic Reasoner
-Hybrid AI system combining deep learning with symbolic logic.
-- **Recent Updates**: Added extensive integration test suites and layered architectural documentation.
-
-### 🧪 Advanced Time Series Forecasting
-High-performance forecasting models for industrial sensor data.
-- **Recent Updates**: Modularized architecture and expanded edge-case testing.
-
-## Technical Proficiency Matrix
-
-| Category | Proficiency |
-| --- | --- |
-| **Languages** | Python, Go, Rust, TypeScript, JavaScript, SQL |
-| **Frameworks** | Next.js, FastAPI, LangChain, PyTorch, Scikit-learn, Spring Boot |
-| **Security Tools** | SonarCloud, Semgrep, TruffleHog, Gitleaks, Trivy, Metasploit |
-| **DevOps & Cloud** | Docker, Kubernetes, GitHub Actions, Terraform, AWS |
+- **Features**: Merkle Tree validation, Cryptographic block signing.
+- **Tech**: Go, SHA-256, Mermaid.
 
 ### 🛡️ [Zero-Trust Asset Identity](https://github.com/Brainfeed-1996/zero-trust-asset-identity)
-A microservice for machine identity issuing SVID-like tokens (SPIFFE style).
-- **Features**: JWT-based SVIDs, Modular identity storage, Zero-trust inter-service auth.
+[![Go](https://img.shields.io/badge/Language-Go-00ADD8.svg)](https://golang.org)
+[![SVID](https://img.shields.io/badge/Auth-SPIFFE-blue.svg)]()
+Microservice for machine identity issuing SVID-like tokens.
+- **Features**: JWT-based SVIDs, Zero-trust inter-service auth.
 - **Tech**: Go, JWT.
 
 ### 🕵️ [Edge AI Intrusion Detection](https://github.com/Brainfeed-1996/edge-ai-intrusion-detection)
+[![C++](https://img.shields.io/badge/Language-C%2B%2B-00599C.svg)](https://isocpp.org)
+[![Python](https://img.shields.io/badge/Language-Python-3776AB.svg)](https://www.python.org)
+[![Edge AI](https://img.shields.io/badge/AI-Inference-orange.svg)]()
 Hybrid C++/Python IDS optimized for high-performance edge processing.
-- **Features**: pybind11 integration, AI-based threat classification layer.
-- **Tech**: C++, Python, pybind11, TensorRT (Mock).
-
-### 🕸️ Cloud-Native Security Mesh
-Policy engine retrofitted with Zero-Trust identity verification.
+- **Tech**: C++, Python, pybind11.
 
 ### 📊 [Industrial Ops & Telemetry](https://github.com/Brainfeed-1996/industrial-ops-telemetry)
-Centralized observability hub for monitoring the Zero-Trust ecosystem.
-- **Features**: Prometheus metrics exportation, Grafana dashboards, Docker-based SRE stack.
+[![Docker](https://img.shields.io/badge/Infrastructure-Docker-2496ED.svg)](https://www.docker.com)
+[![SRE](https://img.shields.io/badge/SRE-Observability-blueviolet.svg)]()
+Centralized hub for monitoring the Zero-Trust ecosystem.
 - **Tech**: Prometheus, Grafana, Docker Compose.
 
 ### 🤖 [Autonomous Sec Agent Ops](https://github.com/Brainfeed-1996/autonomous-sec-agent-ops)
+[![Python](https://img.shields.io/badge/Language-Python-3776AB.svg)](https://www.python.org)
+[![LangChain](https://img.shields.io/badge/AI-LangChain-121212.svg)](https://langchain.com)
 AI agents that perform automated remediation under the Zero-Trust mesh.
-- **Features**: LangChain-based agents, Automated PR security fixes, GitHub integration.
 - **Tech**: Python, LangChain, Next.js.
 
 ## 🏗️ System Architecture & Integration
